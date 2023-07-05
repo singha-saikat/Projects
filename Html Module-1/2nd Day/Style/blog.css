@@ -1,0 +1,21 @@
+h3 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(160, 153, 59);
+    text-decoration: overline;
+   
+}
+#shadow {
+    box-shadow: 10px 10px 10px rgb(211, 208, 34);
+
+}
+.welcome{
+    height: 400px;
+    background-image: url(../photo-1593640495253-23196b27a87f.avif);
+    background-size: cover;
+}
+#ekto {
+    border: 5px solid green;
+    margin: 2px;
+    padding: 2px;
+}
